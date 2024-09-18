@@ -5,7 +5,7 @@ baru.
 ![Screenshot from 2024-09-18 07-37-49](https://github.com/user-attachments/assets/7d0c43c8-105e-45d7-ad9e-eb7691e879f2)
 
 2. Lihat daftar secara lengkap pada direktori /etc/paswd, belokkan tampilan standard output
-ke file baru tanpa menghapus file baru sebelumnya.
+ke file baru tanpa menghapus file baru sebelumnya.                        
 ![Screenshot from 2024-09-18 07-40-04](https://github.com/user-attachments/assets/31652b8b-6ad9-4495-ae03-fdb4df8074ac)
 
 3. Urutkan file baru dengan cara membelokkan standard input.
@@ -26,7 +26,7 @@ Surabaya
 Padang
 Palembang
 Lampung
-Dengan menggunakan notasi here document (<@@@ …@@@)
+Dengan menggunakan notasi here document (<@@@ …@@@)                         
 ![Screenshot from 2024-09-18 07-44-43](https://github.com/user-attachments/assets/c95fb275-00e6-47f2-9e7f-2446728fbf9e)
 
 7. Hitung jumlah baris, kata dan karakter dari file baru.urut dengan menggunakan filter dan
